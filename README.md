@@ -1,45 +1,89 @@
+<!-- ===== Capsule Header ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=260&section=header&text=Haider%20Shaikh&fontSize=78&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=65&descAlign=50"/>
 
-<img src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif" width="450"/>
+<!-- ===== Hero Section ===== -->
+<table>
+<tr>
+<td width="45%">
 
+<img src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=260&section=header&text=Haider%20Shaikh&fontSize=78&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=65&descAlign=50"/>
+</td>
+<td width="55%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=500&lines=Hi+there%2C+I'm+Haider+%F0%9F%91%8B;DevOps+Engineer;Terraform+%7C+Kubernetes+%7C+AWS)
-
-## ✨ Hi there, I'm Haider 👋  
-🚀 DevOps Engineer | Cloud | Automation
-
-DevOps Engineer passionate about building scalable, automated, and reliable cloud infrastructure with modern CI/CD practices.
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+## Hi 👋, I'm Haider Shaikh from India 🇮🇳  
+**DevOps Engineer** focused on automation and cloud technologies for efficiency.
 
 ---
 
-## 🔧 What I Do  
-- 🔭 Design and manage **highly available cloud infrastructure** on AWS & Azure  
-- ⚡ Implement **Infrastructure as Code** using Terraform  
-- 🛡️ Integrate **DevSecOps** with security scanning and policy-as-code  
-- 💬 Enjoy working on **Kubernetes, cloud cost optimization, and system design**
+### 🔧 Tech Stack
+
+**Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+
+**Containers & Orchestration**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+**Infrastructure as Code**
+<br/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+
+**CI/CD**
+<br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions" />
+
+**Scripting & OS**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
+
+**Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
 
-## 🛠️ Tech Stack
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+### 🔭 Currently Working On  
+- **Terraform for AWS**
 
-🔄 Automation & CI/CD  
-- GitHub Actions | Jenkins  
-- CI/CD Pipelines  
-- Monitoring & Observability 
+### 🌱 Currently Learning  
+- **Kubernetes**
 
+### 💬 Ask Me About  
+DevOps, AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Linux, Bash, Git
 
+### 📫 Reach Me  
+📧 **your-email@example.com**
 
+</td>
+</tr>
+</table>
 
+---
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/haiderkind3897/)
+<!-- ===== GitHub Stats ===== -->
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+<!-- ===== Social Icons ===== -->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
