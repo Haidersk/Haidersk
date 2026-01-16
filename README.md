@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=260&section=header&text=Haider%20Shaikh&fontSize=78&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=65&descAlign=50"/>
 
+<img src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif" width="450"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=260&section=header&text=Haider%20Shaikh&fontSize=78&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=65&descAlign=50"/>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=500&lines=Hi+there%2C+I'm+Haider+%F0%9F%91%8B;DevOps+Engineer;Terraform+%7C+Kubernetes+%7C+AWS)
 
 ## ✨ Hi there, I'm Haider 👋  
