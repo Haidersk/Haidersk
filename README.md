@@ -1,16 +1,11 @@
 <!-- ===== Capsule Header ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=260&section=header&text=Haider%20Shaikh&fontSize=78&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=65&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Haider%20Shaikh&fontSize=72&animation=blinking&desc=DevOps%20Engineer%20•%20Cloud%20•%20Automation&descAlignY=70"/>
 
 <!-- ===== Hero Section ===== -->
-<table>
-<tr>
-<td width="45%">
-
-<img src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif" width="100%"/>
-
-</td>
-<td width="55%">
-
+<!-- ===== Animated Section ===== -->
+<p align="left">
+  <img src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif" width="420"/>
+</p>
 ## Hi 👋, I'm Haider Shaikh from India 🇮🇳  
 **DevOps Engineer** focused on automation and cloud technologies for efficiency.
 
