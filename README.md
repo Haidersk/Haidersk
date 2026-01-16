@@ -1,5 +1,5 @@
 <!-- ===== Capsule Header ===== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Haider%20Shaikh&fontSize=72&animation=blinking&desc=DevOps%20Engineer%20•%20Cloud%20•%20Automation&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:0f172a&height=220&section=header&text=Haider%20Shaikh&fontSize=72&animation=blinking&desc=DevOps%20Engineer%20•%20Cloud%20•%20Automation&descAlignY=70"/>
 
 <!-- ===== Hero Section ===== -->
 <!-- ===== Animated Section ===== -->
