@@ -49,7 +49,7 @@
 DevOps, AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Linux, Bash, Git
 
 ### 📫 Reach Me  
-📧 **your-email@example.com**
+📧 **shaikhhaider2050@gmail.com**
 
 </td>
 </tr>
