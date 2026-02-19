@@ -29,8 +29,8 @@ Entry-level DevOps Engineer seeking opportunities to contribute to automation, c
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/Haidersk  
+- LinkedIn: www.linkedin.com/in/haiderkind3897 
 
 ---
 ⭐ Always learning. Always building.
