@@ -6,79 +6,37 @@
 <p align="right">
   <img src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif" width="420"/>
 </p>
-## Hi 👋, I'm Haider Shaikh from India 🇮🇳  
-**DevOps Engineer** focused on automation and cloud technologies for efficiency.
+# 👋 Hi, I'm Haider — Entry-Level DevOps Engineer
+
+🚀 Passionate about Cloud, Automation, and CI/CD pipelines.
+
+## 🛠 Skills
+- Linux Administration  
+- AWS Cloud (EC2, S3, VPC, IAM)  
+- Docker & Kubernetes  
+- Terraform (Infrastructure as Code)  
+- Jenkins CI/CD  
+- Git & GitHub  
+- Monitoring: Datadog  
+
+## 📂 Featured Projects
+### 🔹 AWS Cloud Deployment
+Provisioned EC2 and VPC using Terraform and deployed applications using Docker.
+
+### 🔹 CI/CD Pipeline
+Built Jenkins pipeline for automated build, test, and deployment.
+
+### 🔹 Kubernetes Project
+Deployed containerized applications on Kubernetes with services and ingress.
+
+## 🎯 Currently Learning
+- Advanced Kubernetes  
+- DevOps Best Practices  
+- Cloud Security  
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername  
+- LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
-
-### 🔧 Tech Stack
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-
-**Containers & Orchestration**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-
-**Infrastructure as Code**
-<br/>
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
-
-**CI/CD**
-<br/>
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions" />
-
-**Scripting & OS**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,python" />
-
-**Version Control**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github" />
-
----
-
-### 🔭 Currently Working On  
-- **Terraform for AWS**
-
-### 🌱 Currently Learning  
-- **Kubernetes**
-
-### 💬 Ask Me About  
-DevOps, AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Linux, Bash, Git
-
-### 📫 Reach Me  
-📧 **shaikhhaider2050@gmail.com**
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===== GitHub Stats ===== -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-<!-- ===== Social Icons ===== -->
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</div>
+⭐ Always learning. Always building.
