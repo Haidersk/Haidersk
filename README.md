@@ -1,46 +1,40 @@
+# Skills
 
-<!-- ===== Hero Section ===== -->
-<!-- ===== Animated Section ===== -->
- 
- # 👋 Hi, I'm Haider — Entry-Level DevOps Engineer
-🚀 Passionate about Cloud, Automation, and CI/CD pipelines. <p align="right">
- ## 🛠 Skills
-- Linux Administration   <img src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif" width="420"/>
-</p>
-- AWS Cloud (EC2, S3, VPC, IAM)  
-- Docker & Kubernetes  
-- Terraform (Infrastructure as Code)  
-- Jenkins CI/CD  
-- Git & GitHub  
-- Monitoring: Datadog 
+Here are my skills, displayed in a side-by-side layout:
 
-## 🛠 Skills
-- Linux Administration  
-- AWS Cloud (EC2, S3, VPC, IAM)  
-- Docker & Kubernetes  
-- Terraform (Infrastructure as Code)  
-- Jenkins CI/CD  
-- Git & GitHub  
-- Monitoring: Datadog  
+<div style="display: flex;">
+    <div style="margin-right: 20px;">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>Java</li>
+        </ul>
+    </div>
+    <div>
+        <h2>Soft Skills</h2>
+        <ul>
+            <li>Teamwork</li>
+            <li>Communication</li>
+            <li>Problem Solving</li>
+        </ul>
+    </div>
+</div>
 
-## 📂 Featured Projects
-### 🔹 AWS Cloud Deployment
-Provisioned EC2 and VPC using Terraform and deployed applications using Docker.
+## Animation Example
 
-### 🔹 CI/CD Pipeline
-Built Jenkins pipeline for automated build, test, and deployment.
+Here's a simple animation example:
 
-### 🔹 Kubernetes Project
-Deployed containerized applications on Kubernetes with services and ingress.
+<style>
+@keyframes fade {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
 
-## 🎯 Currently Learning
-- Advanced Kubernetes  
-- DevOps Best Practices  
-- Cloud Security  
+.animated {
+    animation: fade 2s ease-in-out;
+}
+</style>
 
-## 📫 Connect With Me
-- GitHub: https://github.com/Haidersk/Haidersk.git  
-- LinkedIn: www.linkedin.com/in/haiderkind3897  
+<div class="animated">This text will fade in!</div>
 
----
-⭐ Always learning. Always building.
