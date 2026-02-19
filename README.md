@@ -35,8 +35,8 @@ Deployed containerized applications on Kubernetes with services and ingress.
 - Cloud Security  
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/Haidersk/Haidersk.git  
+- LinkedIn: www.linkedin.com/in/haiderkind3897  
 
 ---
 ⭐ Always learning. Always building.
