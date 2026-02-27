@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Haider — Entry-Level DevOps Engineer
+# 👋 Hi, I'm Haider — DevOps Engineer
 
 🚀 Passionate about Cloud Computing, Automation, and CI/CD pipelines.  
 Hands-on experience with Linux, AWS, Docker, Kubernetes, Terraform, Jenkins, and monitoring tools.
